@@ -1,0 +1,602 @@
+[
+    {
+        "ekish_sharoiti": 1,
+        "id": 146,
+        "mintaqa": 1,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 147,
+        "mintaqa": 1,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 148,
+        "mintaqa": 1,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 149,
+        "mintaqa": 1,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 150,
+        "mintaqa": 2,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 151,
+        "mintaqa": 2,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 152,
+        "mintaqa": 2,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 153,
+        "mintaqa": 2,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 154,
+        "mintaqa": 3,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 155,
+        "mintaqa": 3,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 156,
+        "mintaqa": 3,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 157,
+        "mintaqa": 3,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 158,
+        "mintaqa": 4,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 159,
+        "mintaqa": 4,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 160,
+        "mintaqa": 4,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 161,
+        "mintaqa": 4,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 162,
+        "mintaqa": 5,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 163,
+        "mintaqa": 5,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 164,
+        "mintaqa": 5,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 1,
+        "id": 165,
+        "mintaqa": 5,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 30,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 166,
+        "mintaqa": 1,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 167,
+        "mintaqa": 1,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 168,
+        "mintaqa": 1,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 169,
+        "mintaqa": 1,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 170,
+        "mintaqa": 1,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 171,
+        "mintaqa": 1,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 172,
+        "mintaqa": 1,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 173,
+        "mintaqa": 1,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 174,
+        "mintaqa": 2,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 175,
+        "mintaqa": 2,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 176,
+        "mintaqa": 2,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 177,
+        "mintaqa": 2,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 178,
+        "mintaqa": 2,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 179,
+        "mintaqa": 2,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 180,
+        "mintaqa": 2,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 181,
+        "mintaqa": 2,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 182,
+        "mintaqa": 3,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 183,
+        "mintaqa": 3,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 184,
+        "mintaqa": 3,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 185,
+        "mintaqa": 3,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 186,
+        "mintaqa": 3,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 187,
+        "mintaqa": 3,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 188,
+        "mintaqa": 3,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 189,
+        "mintaqa": 3,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 190,
+        "mintaqa": 4,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 191,
+        "mintaqa": 4,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 192,
+        "mintaqa": 4,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 193,
+        "mintaqa": 4,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 194,
+        "mintaqa": 4,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 195,
+        "mintaqa": 4,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 196,
+        "mintaqa": 4,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 197,
+        "mintaqa": 4,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 198,
+        "mintaqa": 5,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 199,
+        "mintaqa": 5,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 200,
+        "mintaqa": 5,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 201,
+        "mintaqa": 5,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": false
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 202,
+        "mintaqa": 5,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 203,
+        "mintaqa": 5,
+        "nasos": 1,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 204,
+        "mintaqa": 5,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 1,
+        "ximicat": true
+    },
+    {
+        "ekish_sharoiti": 2,
+        "id": 205,
+        "mintaqa": 5,
+        "nasos": 3,
+        "qator_oraliqi": 90,
+        "qoshqator": 0,
+        "terim": 2,
+        "ximicat": true
+    }
+]

@@ -1,0 +1,10 @@
+env/
+uploads/
+logs/
+venv/
+flask_machine/
+static/
+.idea
+__pycache__/
+migrations/
+app/config.py
